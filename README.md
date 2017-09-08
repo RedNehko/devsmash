@@ -1,2 +1,3 @@
 # devsmash
-Projet X
+Installation :
+Décompression -> importer fichier sql -> modifier le fichier connect.php
